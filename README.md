@@ -85,11 +85,11 @@ Prodi : D3 MI <br/>
 <img src="img/ss/prak19.jpeg" alt="drawing" width="300"/>
 <br/>
 
-### 18. ListView
+### 20. ListView
 <img src="img/ss/prak20.jpeg" alt="drawing" width="300"/>
 <br/>
 
-### 18. GridView
+### 21. GridView
 <img src="img/ss/prak21.jpeg" alt="drawing" width="300"/>
 <br/>
 
