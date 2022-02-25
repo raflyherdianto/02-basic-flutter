@@ -8,91 +8,90 @@ Kelas : MI-2C <br/>
 Prodi : D3 MI <br/>
 
 ## Hasil Praktikum
-<br/>
 
 ### 1. Text Widget
 <img src="img/ss/prak1.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 2. Image Widget
 <img src="img/ss/prak2.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 3. Material Design dan iOS Cupertino
 <img src="img/ss/prak3.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 4. Button
 <img src="img/ss/prak4.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 5. Scaffold
 <img src="img/ss/prak5.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 6. Dialog
 <img src="img/ss/prak6.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 7. Input dan Selection Widget
 <img src="img/ss/prak7.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 8. Date and Time Pickers
 <img src="img/ss/prak8.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 9. Container Property Child
 <img src="img/ss/prak9.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 10. Container Property Alignment
 <img src="img/ss/prak10.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 11. Container Property Color
 <img src="img/ss/prak11.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 12. Container Property Height dan Width 
 <img src="img/ss/prak12.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 13. Container Property Margin
 <img src="img/ss/prak13.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 14. Container Property Padding
 <img src="img/ss/prak14.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 15. Container Property Transform 
 <img src="img/ss/prak15.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 16. Container Property Decoration
 <img src="img/ss/prak16.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 17. Column Widget
 <img src="img/ss/prak17.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 18. Row Widget 
 <img src="img/ss/prak18.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### 19. Stack 
 <img src="img/ss/prak19.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
-### 18. ListView
+### 20. ListView
 <img src="img/ss/prak20.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
-### 18. GridView
+### 21. GridView
 <img src="img/ss/prak21.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 
 ### Tugas
 <img src="img/ss/revisi.jpeg" alt="drawing" width="300"/>
