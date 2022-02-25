@@ -95,5 +95,5 @@ Prodi : D3 MI <br/>
 
 ### Tugas
 <img src="img/ss/revisi.jpeg" alt="drawing" width="300"/>
-<br/><br/>
+<br/>
 <img src="img/ss/revisi_1.jpeg" alt="drawing" width="300"/>
