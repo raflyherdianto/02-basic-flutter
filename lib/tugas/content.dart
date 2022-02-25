@@ -12,9 +12,7 @@ class Content extends StatelessWidget {
     return Container(
       padding: const EdgeInsets.all(30),
       width: double.infinity,
-      decoration: const BoxDecoration(
-        color: Colors.blue,
-      ),
+      decoration: const BoxDecoration(color: Colors.red),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
